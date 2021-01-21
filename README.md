@@ -2,7 +2,7 @@
 
 A comparative study of various Machine Learning techniques for solving the problem of face classification and emotion recognition (through images).
 
-![emotion-tagging](https://user-images.githubusercontent.com/30972152/105273795-fdcfc580-5bc1-11eb-823f-68978683bf7e.png)
+![emotion-tagging](https://user-images.githubusercontent.com/30972152/105277837-3c697e00-5bca-11eb-8396-d818208f0158.png)
 
 ## Report
 
